@@ -1,0 +1,10 @@
+|OGLEII DIA BUL-SC39 V1553, CMC15 J175512.4-295927|17 55 12.49, -29 59 27.7|EB|15.62|16.02|Ic|0.652579|2450698.477|min||<A HREF="http://www.aavso.org/vsx/docs/399922/1754/41795_Phase.png">L. curve 1</A>||<A HREF="http://ogledb.astrouw.edu.pl/~ogle/photdb/getobj.php?field=BUL_SC39&starid=41795&db=DIA&points=good">Data 1</A>
+|OGLEII DIA BUL-SC04 V7330, CMC15 J175411.0-292739, USNO-B1.0 0605-0624063|17 54 11.06, -29 27 39.6|EA|15.44|16.20|Ic|1.960977|2451360.808|min||<A HREF="http://www.aavso.org/vsx/docs/399942/1754/156243_Phase.png">L. curve 2</A>||<A HREF="http://ogledb.astrouw.edu.pl/~ogle/photdb/getobj.php?field=BUL_SC4&starid=156243&db=DIA&points=good">Data 2</A>
+|OGLEII DIA BUL-SC41 V1264, CMC15 J175208.8-331720|17 52 08.82, -33 17 20.2|EW|15.67|16.15|Ic|0.481054|2451460.567|min||<A HREF="http://www.aavso.org/vsx/docs/399960/1754/353453_Phase.png">L. curve 3</A>||<A HREF="http://ogledb.astrouw.edu.pl/~ogle/photdb/getobj.php?field=BUL_SC41&starid=353453&db=DIA&points=good">Data 3</A>
+|OGLEII BUL-SC41 567063, 2MASS J17523585-3252369, CMC15 J175235.8-325237, UCAC4 286-136820||17 52 35.86 -32 52 36.7|EA|14.92|15.57|Ic|1.741905|2450684.685|min||<A HREF="http://www.aavso.org/vsx/docs/399969/1754/567063_Phase.png">L. curve 4</A>||<A HREF="http://ogledb.astrouw.edu.pl/~ogle/photdb/getobj.php?field=BUL_SC41&starid=567063&db=DIA&points=good">Data 4</A>
+|OGLEII DIA BUL-SC42 V3174, 2MASS J18090703-2638162, CMC15 J180907.0-263816, UCAC4 317-140882|18 09 07.04, -26 38 16.3|EB|14.03|14.33|Ic|0.644986|2451402.743|min||<A HREF="http://www.aavso.org/vsx/docs/399970/1754/418437_Phase.png">L. curve 5</A>||<A HREF="http://ogledb.astrouw.edu.pl/~ogle/photdb/getobj.php?field=BUL_SC42&starid=418437&db=DIA&points=good">Data 5</A>
+|OGLEII SCO-SC2 35000, 2MASS J16411828-4415388, USNO-B1.0 0457-0497085|16 41 18.29, -44 15 38.9|EA|16.78|17.52|Ic|0.97319|2450996.534|min||<A HREF="">L. curve 6</A>||<A HREF="http://ogledb.astrouw.edu.pl/~ogle/photdb/getobj.php?field=SCO_SC2&starid=35000&db=DIA&points=good">Data 6</A>
+
+
+
+
