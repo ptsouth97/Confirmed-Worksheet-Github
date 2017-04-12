@@ -7,5 +7,5 @@ OGLE Search Parameters
 I>med
 0.1<Isig<0.3
 ############################
-Start on page 23 number 1101
-BUL-SC44 65339
+Start on page 25 number 1236
+BUL-SC48 257488
